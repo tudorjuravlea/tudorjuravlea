@@ -37,3 +37,4 @@ Working tools, not a portfolio: fidelity-machine is the main event, plus small u
 ---
 
 Open to conversations about service design in regulated industries, design systems and research-led product work. Reach me on [LinkedIn](https://www.linkedin.com/in/tudorjuravlea).
+
