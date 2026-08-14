@@ -1,14 +1,16 @@
 # Tudor Juravlea
 
-Service Design Lead in banking, telecom and energy, with a Product Design and Product Management background. Based in Bucharest.
+Service Design Lead in banking, telecom and energy, with a Product Design and Product Management background. 
 
-I turn ambiguity into clear product direction. Eighteen years in digital and product since 2008 at Orange, Vodafone, ING, E.ON and Raiffeisen, the last decade in service and experience design. I run discovery, map trends and constraints, frame the real problem behind the stated one, and facilitate collaboration across teams to move decisions forward faster.
+I turn ambiguity into clear product direction. 
+Eighteen years in digital and product since 2008 at Orange, Vodafone, ING, E.ON and Raiffeisen, the last decade in service and experience design. 
+I run discovery, map trends and constraints, frame the real problem behind the stated one, and facilitate collaboration across teams to move decisions forward faster.
 
 ---
 
 ### What I work on
 
-**Raiffeisen Bank.** Service Design Lead. Set up the service design practice from scratch inside the bank: service blueprints, customer journeys, research-led redesigns of core banking flows, all held to the bank's unified design system.
+**Raiffeisen Bank.** Service Design Lead. Set up the service design practice inside the bank: service blueprints, customer journeys, research-led redesigns of core banking flows, all held to the bank's unified design system. 
 
 **[fidelity-machine](https://github.com/tudorjuravlea/fidelity-machine)**. Open-source (Apache-2.0). *On brand. On system. On point.* A design-system fidelity gate for AI-generated UI: lock the brand, generate through the mold, refuse anything off-system. Built from real production design-system work.
 
