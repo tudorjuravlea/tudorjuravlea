@@ -13,20 +13,24 @@ I run discovery, map trends and constraints, frame the real problem behind the s
 **Raiffeisen Bank.** 
 Service Design Lead. Set up the service design practice inside the bank: service blueprints, customer journeys, research-led redesigns of core banking flows, all held to the bank's unified design system. 
 
-**[fidelity-machine](https://github.com/tudorjuravlea/fidelity-machine)**. 
-Open-source design system fidelity tool (Apache-2.0). *On brand. On system. On point.* A design-system fidelity gate for AI-generated UI: lock the brand, generate through the mold, refuse anything off-system. Built from real production design-system work.
-
 **Design Thinking Society.** 
 The innovation consultancy I co-founded and ran for 7 years. I coached client teams through end-to-end innovation projects in more than 40 organisations (companies, NGOs, institutions), from discovery and synthesis to prototyping, usability testing and business-model validation. Now closed.
 
 **Community.** 
+Co-host of the ProductTank Bucharest and ProductTank Brussels meetups. 
 Programs Manager at Product Makers Romania. 
 Organizer of the UX Bucharest Meetup and of the Design Thinking Romania Meetup.
 Co-founder of the Romanian Association for User Experience (ARUX) and of Design Unfold. 
-Co-host of the ProductTank Bucharest and ProductTank Brussels meetups. 
 Co-organizer of the Design Thinking Forum. 
 Startup mentor at Innovation Labs. 
 Product Design Mentor for 9 years at The Informal School of IT.
+
+---
+
+### Tools I build
+**[fidelity-machine](https://github.com/tudorjuravlea/fidelity-machine)**. 
+Open-source design system fidelity tool (Apache-2.0). *On brand. On system. On point.* A design-system fidelity gate for AI-generated UI: lock the brand, generate through the mold, refuse anything off-system. Built from real production design-system work.
+
 
 ---
 
