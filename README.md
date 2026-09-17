@@ -30,7 +30,7 @@ Product Design Mentor for 9 years at The Informal School of IT.
 ### The tools I am building
 
 **[fidelity-machine](https://github.com/tudorjuravlea/fidelity-machine)**. 
-An open-source design system fidelity tool (Apache-2.0). *On brand. On system. On point.* A design-system fidelity system for AI-generated UI: lock the brand, generate through the mold, refuse anything off-system. Prototype fast from real production design-system work.
+Tired of AI generated slop UIs? I built an open-source design system fidelity tool (Apache-2.0). *On brand. On system. On point.* A design-system fidelity system for AI-generated UI: lock the brand → generate through the mold → → achieve fidelity. Prototype fast from real production design-system work.
 
 
 ---
