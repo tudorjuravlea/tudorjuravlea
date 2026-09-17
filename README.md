@@ -31,7 +31,7 @@ Product Design Mentor for 9 years at The Informal School of IT.
 
 **[fidelity-machine](https://github.com/tudorjuravlea/fidelity-machine)**. 
 Tired of AI generated slop UIs? I built an open-source design system fidelity tool (Apache-2.0 license) to solve that. 
-*Fidelity Machine is always: On brand. On system. On point.* A design-system fidelity system for AI-generated UI:
+*Fidelity Machine is the engine that gets you always: On brand. On system. On point.* 
 
 lock the brand → generate through the mold → achieve consistent brand fidelity. 
 Prototype fast from real production design-system work.
