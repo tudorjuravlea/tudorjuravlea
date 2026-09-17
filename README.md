@@ -32,7 +32,7 @@ Product Design Mentor for 9 years at The Informal School of IT.
 **[Fidelity-Machine](https://github.com/tudorjuravlea/fidelity-machine)**: 
 Tired of AI-generated slop User Interfaces? I built an open-source design system fidelity tool (Apache-2.0 license) to solve that. 
 lock the brand → generate through the mold → achieve consistent brand fidelity. 
-Prototype fast from real production design-system work.
+Prototype fast from real design-system work.
 
 
 ---
