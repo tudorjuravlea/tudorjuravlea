@@ -18,16 +18,17 @@ The innovation consultancy I co-founded and ran for 7 years. I coached client te
 
 **Community.** 
 Co-host of the ProductTank Bucharest and ProductTank Brussels meetups. 
-Programs Manager at Product Makers Romania. 
+Programs Manager at Product Makers Romania, the largest Product Community in Romania
 Organizer of the UX Bucharest Meetup and of the Design Thinking Romania Meetup.
 Co-founder of the Romanian Association for User Experience (ARUX) and of Design Unfold. 
-Co-organizer of the Design Thinking Forum. 
-Startup mentor at Innovation Labs. 
+Co-organizer of the Design Thinking Forum and UX Bucharest conferences.
+Startup mentor at Innovation Labs, the largest startup accelerator in Romania.
 Product Design Mentor for 9 years at The Informal School of IT.
 
 ---
 
-### Tools I build
+### Tools I am building
+
 **[fidelity-machine](https://github.com/tudorjuravlea/fidelity-machine)**. 
 Open-source design system fidelity tool (Apache-2.0). *On brand. On system. On point.* A design-system fidelity gate for AI-generated UI: lock the brand, generate through the mold, refuse anything off-system. Built from real production design-system work.
 
