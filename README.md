@@ -11,7 +11,7 @@ I run discovery, map trends and constraints, frame the real problem behind the s
 ### What I work on
 
 **Raiffeisen Bank.** 
-Service Design Lead. Set up the service design practice inside the bank: service blueprints, customer journeys, research-led redesigns of core banking flows, all held to the bank's unified design system. 
+Service Design Lead. Set up the service design practice: service blueprints, customer journeys, research-led redesigns of core banking flows
 
 **Design Thinking Society.** 
 The innovation consultancy I co-founded and ran for 7 years. I coached client teams through end-to-end innovation projects in more than 40 organisations (companies, NGOs, institutions), from discovery and synthesis to prototyping, usability testing and business-model validation. Now closed.
