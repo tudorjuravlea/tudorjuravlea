@@ -56,7 +56,7 @@ One command turns a screen recording into a device film: `mm showcase recording.
 
 ### What lives here
 
-Working tools, not a portfolio: fidelity-machine is the main event, plus small utilities from real design-operations problems. Portfolio conversations happen directly; happy to walk through case studies.
+Working tools, not a portfolio: Fidelity Machine and Motion Machine are the main events, plus small utilities from real design-operations problems. Portfolio conversations happen directly; happy to walk through case studies.
 
 ---
 
