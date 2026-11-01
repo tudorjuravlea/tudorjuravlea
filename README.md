@@ -34,6 +34,11 @@ Tired of AI-generated slop user interfaces? I built an open-source design system
 lock the brand → generate through the mold → achieve consistent brand fidelity. 
 Prototype fast from real design-system work.
 
+**[Motion Machine](https://github.com/tudorjuravlea/motion-machine)**: 
+Brand teams wait weeks for motion, and generic templates never look like the brand. I built an open-source engine (Apache-2.0 license) that captures a brand once and becomes its motion studio: reels, launch films and animated decks in the brand's own colours, type and design system, from 200+ brand-neutral patterns, checked by a gate before anything ships. 
+capture the brand → direct the piece → ship it checked. 
+One command turns a screen recording into a device film: `mm showcase recording.mp4`.
+
 
 ---
 
